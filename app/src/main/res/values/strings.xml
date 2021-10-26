@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bondarev</string>
+    <string name="logo">logo</string>
+    <string name="hello">ПРИВЕТ</string>
+    <string name="Text">Наслаждайся отборочными. \nБудь внимателен. \nДелай хорошо.</string>
+    <string name="button">Войти в аккаунт</string>
+    <string name="SignIn">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
